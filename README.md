@@ -14,3 +14,8 @@ Learning GitHub Copilot, Git, and AI-powered development workflows.
 **GitHub** is like Figma's cloud collaboration—it's where you upload your project so others can see it, contribute, and sync changes. Git handles the *how* (version control), GitHub handles the *where* (cloud storage + collaboration).
 
 Think: Git = your design edits, GitHub = sharing your file link with teammates.
+
+## My First Branch
+I created this content in a branch instead of editing main directly.
+
+This helped me learn how Git supports safe experimentation.
